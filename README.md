@@ -1,6 +1,12 @@
-# LITA_Class_Documentation
+# LITA_Knowledge_Base
 
-### Project title: Excel Funtionality Best Practices
+### Project title: Data Analysis Portfolio
+### Project Overview
+Welcome to my Data Analysis Portfolio, showcasing my skills and projects in data analysis using various tools and technologies. This portfolio is a culmination of my learning journey in the Data Analysis program, where I gained hands-on experience in:
 
-### Accurate Data Input and Integrity
-Master efficient data input techniques and ensure data integrity in Excel using multiple methods. Avoid common errors and maintain accurate data with these best practices.
+### Key Skills:
+
+- Microsoft Excel: Interface, functions, and data manipulation
+- Pivot Tables: Data summarization and visualization
+- SQL: Querying and data analysis
+- GitHub: Version control and collaboration
