@@ -27,6 +27,7 @@ Project Highlights
  Project 2: Sales Dashboard using Pivot Tables and Visualization
  
  Project 3: Employee Database Management using SQL
+
  
 ---
 ### Project Overview
@@ -50,6 +51,7 @@ This portfolio includes a collection of projects and exercises demonstrating my 
 
 ### Featured Projects:
 ---
+
 ### Project 1: Sales Analysis using Excel Functions and Text Manipulation
 
 ### Brief Overview:
@@ -96,6 +98,7 @@ Fictional sales data with customer information (names, addresses, regions)
 - [Download here](https://docs.google.com/spreadsheets/d/18U8QdEmnm8ohzhBOb32EfdzNv89dczbE/edit?usp=drive_link&ouid=100692561819122818038&rtpof=true&sd=true)
 
 ---
+
 ### Project 2: Sales Dashboard using Pivot Tables and Visualization
 
 ### Objective:
@@ -132,6 +135,7 @@ Create an interactive sales dashboard using Pivot Tables, charts, and slicers to
     - Insights gained
 
 ---
+
 ### Project 3: Employee Database Management using SQL
 
 ### Objective: Design and manage an employee database using SQL, demonstrating proficiency in querying and manipulating data.
