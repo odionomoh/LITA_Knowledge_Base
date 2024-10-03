@@ -168,9 +168,3 @@ Where department = ('ACCOUNT')
     - Project objective.
     - SQL concepts used.
     - Insights gained.
-
-
-
-
-
-
