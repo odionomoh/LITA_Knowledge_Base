@@ -1,6 +1,34 @@
 # LITA_Knowledge_Base
 
 ### Project title: Data Analysis Portfolio
+
+[Project Overview](#project-overview)
+
+Key Skills
+
+Project Highlights
+
+ [Featured Projects](#featured-projects)
+ 
+ Project 1: Sales Analysis using Excel Functions and Text Manipulation
+ 
+ Brief Overview
+ 
+ Key Insights
+ 
+ Tools and Techniques Used
+ 
+ Data Analysis Steps
+ 
+ Skills Demonstrated
+ 
+ Dataset
+ 
+ Project 2: Sales Dashboard using Pivot Tables and Visualization
+ 
+ Project 3: Employee Database Management using SQL
+ 
+---
 ### Project Overview
 Welcome to my Data Analysis Portfolio, showcasing my skills and projects in data analysis using various tools and technologies. This portfolio is a culmination of my learning journey in the Data Analysis program, where I gained hands-on experience in:
 
@@ -22,7 +50,7 @@ This portfolio includes a collection of projects and exercises demonstrating my 
 
 ### Featured Projects:
 ---
-**Project 1:** Sales Analysis using Excel Functions and Text Manipulation
+### Project 1: Sales Analysis using Excel Functions and Text Manipulation
 
 ### Brief Overview:
 Analyzed sales data for a fictional company using Excel functions and text manipulation techniques to extract insights and identify trends.
@@ -68,7 +96,7 @@ Fictional sales data with customer information (names, addresses, regions)
 - [Download here](https://docs.google.com/spreadsheets/d/18U8QdEmnm8ohzhBOb32EfdzNv89dczbE/edit?usp=drive_link&ouid=100692561819122818038&rtpof=true&sd=true)
 
 ---
-**Project 2:** Sales Dashboard using Pivot Tables and Visualization
+### Project 2: Sales Dashboard using Pivot Tables and Visualization
 
 ### Objective:
 Create an interactive sales dashboard using Pivot Tables, charts, and slicers to analyze and visualize sales data.
@@ -90,13 +118,21 @@ Create an interactive sales dashboard using Pivot Tables, charts, and slicers to
     - Pivot Tables
     - Charts
     - Slicers
+  
+
+![Chart 1](https://github.com/user-attachments/assets/0befa7c5-2d96-4a0e-b9f8-77bce5a03619)
+
+
+
+![chart 2](https://github.com/user-attachments/assets/98ed121f-b8bf-41fa-b921-67c7f792f7da)
+
 2. README file explaining:
     - Project objective
     - Techniques used
     - Insights gained
 
 ---
-**Project 3:** Employee Database Management using SQL
+### Project 3: Employee Database Management using SQL
 
 ### Objective: Design and manage an employee database using SQL, demonstrating proficiency in querying and manipulating data.
 
