@@ -28,6 +28,8 @@ Project Highlights
  
  Project 3: Employee Database Management using SQL
 
+ Project 4: Sales Analytics using Power BI
+
  
 ---
 ### Project Overview
@@ -39,6 +41,9 @@ Welcome to my Data Analysis Portfolio, showcasing my skills and projects in data
 - Pivot Tables: Data summarization and visualization
 - SQL (Structured Query Language): Querying and data analysis
 - GitHub: Version control and collaboration
+- Power BI: Data modeling, visualization, and dashboard creation
+- DAX (Data Analysis Expressions): Formula writing for data modeling
+
 
 ### Project Highlights:
 
@@ -48,6 +53,10 @@ This portfolio includes a collection of projects and exercises demonstrating my 
 2. Data visualization and summarization using Pivot Tables
 3. Querying and analyzing relational databases using SQL
 4. Collaborative version control using GitHub
+5. Data modeling and visualization using Power BI
+6. Data transformation and appending using Power Query
+7. Creating calculated columns and measures using DAX functions
+
 
 ### Featured Projects:
 ---
@@ -172,3 +181,47 @@ Where department = ('ACCOUNT')
     - Project objective.
     - SQL concepts used.
     - Insights gained.
+  
+
+### Project 4: Sales Analytics using Power BI
+
+Brief Overview:
+
+Analyzed sales data using Power BI, creating interactive dashboards and visualizations to extract insights and identify trends.
+
+### Key Insights:
+
+- Identified top-selling regions and products
+- Uncovered sales patterns and correlations
+- Created dynamic dashboards with slicers and filters
+
+### Tools and Techniques Used:
+
+- Power BI: Data modeling, visualization, and dashboard creation
+- Power Query: Data transformation and appending
+- DAX: Formula writing for calculated columns and measures
+
+### Data Analysis Steps:
+
+1. Imported and transformed sales data using Power Query.
+2. Created data models using Power BI.
+3. Designed interactive dashboards with visualizations.
+4. Applied DAX functions for calculated columns and measures.
+5. Analyzed sales trends using Power BI analytics.
+
+### Skills Demonstrated:
+
+- Data modeling and visualization
+- Data transformation and appending
+- DAX formula writing
+- Power BI dashboard creation
+
+Dataset:
+
+Fictional sales data with customer information (names, addresses, regions)
+
+
+README
+
+This portfolio showcases my skills in data analysis, visualization, and manipulation using various tools and technologies.
+
